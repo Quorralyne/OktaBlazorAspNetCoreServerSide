@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30225.117
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OktaBlazorAspNetCoreServerSide", "OktaBlazorAspNetCoreServerSide.csproj", "{693FD6C0-46D8-4CD4-8ABD-21928B8AB594}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{693FD6C0-46D8-4CD4-8ABD-21928B8AB594}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{693FD6C0-46D8-4CD4-8ABD-21928B8AB594}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{693FD6C0-46D8-4CD4-8ABD-21928B8AB594}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{693FD6C0-46D8-4CD4-8ABD-21928B8AB594}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5AE77F56-9572-4651-9461-590CEC5350C5}
+	EndGlobalSection
+EndGlobal
